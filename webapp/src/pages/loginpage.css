@@ -1,0 +1,26 @@
+.input_box{
+    margin-left: 22.5%;
+    width: 60%;
+    border: solid 2px black;
+    margin-top: -0.5%;
+}
+.login_button{
+    border:  1px black;
+    background-color: darkgray;
+}
+.login_button:hover{
+border: none 1px black;
+background-color: darkgray;
+color: black;
+
+}
+.login_form{
+    border:solid 1px black;
+    padding: 4px;
+    width: 50%;
+    margin-left:25% ;
+    margin-top: -3%;
+   height: 101%;
+    padding-bottom: 30px;
+    padding-top: 25px;
+}

@@ -1,0 +1,97 @@
+
+
+
+/* 2nd File CSS */
+
+
+
+
+
+/* TeamDetail Table 2 Css */
+
+.Teamdetail_FullTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.teamdetail_thead{
+  background-color: #36304a;
+}
+
+.teamdetail_thead tr th{
+  color: white;
+}
+
+.teamdetail_thead th{
+  text-align: center;
+  padding: 8px;
+}
+.teamdetail_thead tr th{
+  border: none;
+  font-weight: unset;
+  font-size:1.5vw
+}
+
+.teamdetail_tbody td{
+  text-align: center;
+  padding: 8px;
+}
+.teamdetail_tbody tr:hover{
+  background-color: #ffeec8;
+}
+.Teamdetail_FullTable tr:nth-child(even){
+    background-color: rgb(227, 227, 227);
+}
+
+.teamdetail_tbody tr:hover{
+  background-color: #e4d3ff;
+}
+
+
+
+
+
+
+/* ignore */
+
+
+
+
+/* 
+
+.innertable1{
+  background-color: rgb(62, 48, 255);
+  border-collapse: collapse;
+    width: 100%;
+}
+.innertable2{
+  width: 100%;
+  padding: 8px;
+  text-align: center;
+  border-bottom: 0.5px solid #DDD;
+  background-color: #c8d5ff;
+}
+
+  .innertable1 th{
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #DDD;
+    color: rgb(229, 228, 228);
+    margin-left: 5px;
+  }
+  
+.innertable2 tr:hover {background-color: #c8d5ff;}
+
+.innertable2 td{
+   padding: 8px;
+    border-left: 0.5px solid #DDD;
+  background-color: rgb(255, 255, 255);
+}
+
+.innertable2_tr{
+  background-color: aqua;
+}
+
+.innertable2 td:hover{
+  background-color: #c8d5ff;
+} */

@@ -1,0 +1,7 @@
+.Container{
+    width: 100vw;
+    display: flex;
+    background-color:rgb(243, 243, 243);
+    justify-content: space-evenly
+    
+}

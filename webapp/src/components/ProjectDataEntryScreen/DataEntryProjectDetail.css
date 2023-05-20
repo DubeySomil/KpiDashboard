@@ -1,0 +1,186 @@
+.readOnlyInputs{
+    background-color:#ddd ;
+    display:flex ;
+     /* width:85% */
+}
+
+.readOnlyInputsDiv{
+    /* width:33% */
+}
+.readOnlyInputsDiv label{
+    /* padding:5px; */
+}
+
+.readOnlyInputsDiv label b{
+    font-weight: 1000;
+    /* width: 40%; */
+    font-size: 1.1vw;
+    /* margin-left:2px; */
+    
+}
+
+.readOnlyInputsDiv label input{
+    /* width: 60%; */
+    /* padding : 1px; */
+    
+    /* margin-right:5px ; */
+    /* width: 50%; */
+    background-color:rgb(243, 243, 243)
+}
+
+
+.ProjectNameSelectorDataEntry{
+    /* margin-left:1% ; */
+     margin-right:3%;
+      background-color:#ddd ; 
+      width:20%
+}
+
+
+.DataEntryDropDown{
+
+    margin-right : 3% ;
+
+     background-color:#ddd ;
+
+      width:20%
+
+}
+
+
+
+.DataEntryDropDown select{
+
+    width:100% ;
+
+    height:30%;
+
+    margin-right:3% ;
+
+     background-color:rgb(243, 243, 243)
+
+}
+
+.displayInfoDiv{
+    display:flex;
+    float:right ;
+    flex-wrap:wrap;
+    /* width : 100% ; */
+     margin-left:13%;
+    justify-items: end;
+}
+
+.readOnlyInputs{
+     
+    background-color:#ddd ;
+  
+    /* width:85% */
+
+}
+
+
+
+.readOnlyInputsDiv{
+
+    margin-right: 5px;
+
+    margin-left: 5px;
+
+    width:33%
+
+}
+
+.readOnlyInputsDiv label{
+
+    padding:5px;
+
+    min-width: 30%;
+
+    max-width: 30%;
+
+
+
+}
+
+
+
+.readOnlyInputsDiv label b{
+
+    font-size: 1.1vw;
+
+    margin-left:2px;
+
+    font-weight: 900;
+
+   
+
+}
+
+
+
+.readOnlyInputsDiv input{
+
+    max-width: fit-content;
+
+    font-size: 1.1vw;
+
+    min-width: 40%;
+
+    max-width: 60%;
+
+    border: none;
+
+    border-bottom: 2px solid rgb(0, 0, 0);
+
+    background-color:#ddd;
+
+    margin-left: 5%;
+
+}
+.ManagerNameDisplay{
+    display: flex;
+    margin-top: 1%;
+    margin-left: 3% ;
+}
+
+.ManagerNameDisplay input{
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: #ddd;
+    width: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Test Data entry screen css */
+.DisplayDetailFullTable{
+    width: 100%;
+}
+
+.DisplayDetailFullTable tr td input{
+    background-color: #ddd;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.DisplayDetailFullTable tr td label{
+    font-size: 1.4vw;
+}

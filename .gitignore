@@ -1,0 +1,9 @@
+node_modules
+/.vscode
+/.mvn
+/target
+/webapp/build
+/src/main/resources/application.properties
+/webapp/package-lock.json
+/webapp/package.json
+/.classpath

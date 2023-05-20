@@ -1,0 +1,84 @@
+.Teamdetail_FullTable {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  
+  .ChartsDipslayTHead{
+    text-align: center;
+    background-color: #36304a;
+    width: 100%;
+    color: white;
+  }
+  
+  
+  
+  .chartsTable{
+      background-color: rgb(227, 227, 227);
+      width: 100%;
+      text-align: center;
+      font-size: 2vw;
+      font-weight: bold;
+  }
+  .teamdetail_thead tr th{
+    color: white;
+  }
+  
+  .teamdetail_thead th{
+    text-align: center;
+    padding: 8px;
+  }
+  .teamdetail_thead tr th{
+    border: none;
+    font-weight: unset;
+    font-size:1.5vw
+  }
+  
+  .teamdetail_tbody td{
+    text-align: center;
+    padding: 8px;
+  }
+  .teamdetail_tbody tr:hover{
+    background-color: #ffeec8;
+  }
+  
+  .teamdetail_tbody tr:hover{
+    background-color: #e4d3ff;
+  }
+
+
+  .projectname{
+    text-align: center;
+  }
+
+
+
+  .Charts3SubmitButton{
+    width: 60%;
+     height: 50%;
+     float: right;
+      background-color: purple;
+       color: white
+
+
+
+;
+       margin-bottom: 3%;
+       margin-right: 1%;
+       /* float: right; */
+       padding: 6px;
+       border: solid rgba(0, 0, 0, 0.63) 2px;
+       border-radius: 5px;
+  }
+
+
+
+  .Chart3SearchTable{
+    width: 100%;
+     background-color: #ddd
+  }
+
+  .Chart3SearchTable tr td{
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }

@@ -1,0 +1,100 @@
+
+
+.headingOfDataEntryScreen{
+    width: "100%" ;
+    background-color:"blue";
+    color:"white"
+}
+
+.TableOfDataEntryScreen tr{
+    background-color: rgb(243, 243, 243);
+}
+
+.headingOfDataEntryScreen{
+    background-color: #36304a;
+    width: 100%;
+    color: white;
+}
+
+.headingKpiName{
+    text-align: center;
+    width: 25%;
+    padding: 1%;
+}
+
+.headingThreshold{
+    width: 15%;
+    text-align: center;
+}
+
+table  th{
+    width: 5%;
+    border: none;
+}
+table td {
+    align-items: left;
+}
+
+.kpiNameValue{
+    width: 25%;
+    border: none;
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+}
+.kpiNameValue input{
+    background-color: rgb(243, 243, 243);
+    border: none;
+    /* border: 1px solid black; */
+    width: 100%;
+    min-width: none;
+    
+}
+
+.thresholdNameValue{
+    text-align: center;
+    border: none;
+    width: 15%;
+    
+    
+}
+.thresholdNameValue input{
+   text-align: center;
+   border: 1px solid black;
+   /* border-bottom: 1px solid black; */
+   background-color: rgb(243, 243, 243);
+}
+.yearValue{
+    text-align: center ;
+    border:none
+
+    
+}
+
+.yearValue input{
+    
+    width : 100%;
+    /* border: none; */
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+    border: 0.5px solid black;
+}
+
+
+/* this is to remove arrow button in input field */
+.yearValue  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+ 
+  input::-webkit-input-placeholder { /* WebKit browsers */
+    color:    rgb(20, 20, 20);
+}
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    rgb(25, 24, 24);
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    rgb(20, 19, 19);
+}
+input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    rgb(9, 9, 9);
+}

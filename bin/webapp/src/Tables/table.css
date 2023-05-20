@@ -1,0 +1,52 @@
+/* table {
+    border-collapse: collapse;
+    max-width: 900px;
+    width: 100%;
+    margin: 2rem auto;
+  }
+  table th, table td {
+    padding: 8px;
+  } */
+
+
+.team-detail-table{
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* border-radius: 50%; */
+  border-bottom: dotted 1px grey;
+  
+
+    
+}
+.team-detail-table tr{
+  border: none;
+border-bottom: dotted 1px grey;
+}
+
+.team-detail-table td, table th {
+    padding: 8px;
+}
+
+.team-detail-table tr:nth-child(even){background-color: #f2f2f2;}
+.team-detail-table tr:hover {background-color: #ddd;}
+
+.team-detail-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align:center;
+    color: black;
+    font-size: 14px;
+    
+  }
+  .team-detail-table tr{
+    font-weight: lighter;
+    font-size: 14px;
+    
+  }
+
+
+  

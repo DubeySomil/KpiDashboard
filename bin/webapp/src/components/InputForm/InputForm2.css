@@ -1,0 +1,16 @@
+/* input[type=text]  */ .existing-user-form{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(201, 201, 201);
+    
+    margin-top: 33px;
+    margin-left: 10px;
+
+
+    /* width:50%; */
+  }
+
+

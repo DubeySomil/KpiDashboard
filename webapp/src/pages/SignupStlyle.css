@@ -1,0 +1,33 @@
+
+
+.Card{
+    width: 50vw;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin: 0 auto;
+    height:100vh ;
+    box-sizing: border-box;
+    overflow: hidden;
+    
+}
+
+Form{
+    
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin: 0 auto;
+    height: 80vh;
+}
+
+.formGroup label{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin: 0 auto;
+    float: left;
+    padding: 5px;
+    font-weight: bolder;
+    margin-left: 0;
+}

@@ -1,0 +1,28 @@
+.infoTable {
+    width: 100%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+  }
+  
+  .infoTable>tr>th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    background-color: #36304a;
+    color: white;
+  }
+  
+  .infoTable>tr>td {
+      
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-size: 1vw;
+  }
+
+  .infoTable tr td p{
+  }
+
+  .infoTable tr:nth-child(even) {
+    background-color: #dddddd;
+  }

@@ -1,0 +1,23 @@
+.search-button{
+    
+    background-color: rgb(255, 217, 135);
+    border-radius: 12%;
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+
+    margin-top: 33px;
+margin-left: 10px;
+
+}
+
+.search-button:hover{
+    background-color: #790890;
+  color: white;
+  
+
+}

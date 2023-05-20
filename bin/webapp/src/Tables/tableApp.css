@@ -1,0 +1,9 @@
+.h1-of-table{
+    font-size: 150%;
+    /* font-weight: 10; */
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    color: #666;
+    margin-top: -1.2%;
+}

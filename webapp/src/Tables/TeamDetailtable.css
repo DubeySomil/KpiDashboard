@@ -1,0 +1,39 @@
+/* TeamDetail Table 2 Css */
+
+.Teamdetail_FullTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.teamdetail_thead{
+  background-color: #36304a;
+}
+
+.teamdetail_thead tr th{
+  color: white;
+}
+
+.teamdetail_thead th{
+  text-align: center;
+  padding: 8px;
+}
+.teamdetail_thead tr th{
+  border: none;
+  font-weight: unset;
+  font-size:1.5vw
+}
+
+.teamdetail_tbody td{
+  text-align: center;
+  padding: 8px;
+}
+.teamdetail_tbody tr:hover{
+  background-color: #ffeec8;
+}
+.Teamdetail_FullTable tr:nth-child(even){
+    background-color: rgb(227, 227, 227);
+}
+
+.teamdetail_tbody tr:hover{
+  background-color: #ede2ff;
+}

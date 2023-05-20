@@ -1,0 +1,29 @@
+.readOnlyInputs{
+    background-color:#ddd ;
+    display:flex ;
+     width:85%
+}
+
+.readOnlyInputsDiv{
+    width:33%
+}
+.readOnlyInputsDiv label{
+    padding:5px;
+}
+
+.readOnlyInputsDiv label b{
+    font-weight: 1000;
+    width: 40%;
+    font-size: 1.1vw;
+    margin-left:2px;
+    
+}
+
+.readOnlyInputsDiv label input{
+    width: 60%;
+    padding : 1px;
+    
+    /* margin-right:5px ; */
+    width: 50%;
+    background-color:rgb(243, 243, 243)
+}

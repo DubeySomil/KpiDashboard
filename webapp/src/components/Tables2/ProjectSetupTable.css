@@ -1,0 +1,40 @@
+
+.kpi-detail-table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+
+  .kpi-detail-table>table{
+    width: 100%;
+    overflow: auto;
+  }
+  
+
+  
+  .kpi-detail-table td, table th {
+    border: 1px solid #ddd;
+    /* padding: 8px; */
+  }
+  
+  .kpi-detail-table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .kpi-detail-table tr:hover {background-color: #ddd;}
+  
+  .kpi-detail-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align:center;
+    background-color: #008655ad;
+    color: white;
+  }
+
+
+
+  input[type=radio] {
+    border: 0px;
+    width: 25%;
+    height: 1em;
+}
+
